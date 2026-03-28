@@ -1,5 +1,3 @@
-good morning....
+Good morning....
 
-int a = 10;
-
-int b = 20;
+How are you???
