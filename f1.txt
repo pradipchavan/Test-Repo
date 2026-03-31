@@ -9,6 +9,7 @@ return a + b;
 
 How are you???
 
+<<<<<<< Updated upstream
 //102-jira
 public int m3(ina a, int b) {
 
@@ -16,3 +17,21 @@ return a - b;
 
 }
 
+=======
+
+//101-Jira
+public string m1() {
+
+int a =10;
+
+int b = 20;
+
+
+
+return a + b;
+
+system.out.println(a, b);
+}
+
+
+>>>>>>> Stashed changes
